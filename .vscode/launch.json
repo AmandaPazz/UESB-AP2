@@ -1,0 +1,525 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aluno",
+            "request": "launch",
+            "mainClass": "Aluno",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Busca",
+            "request": "launch",
+            "mainClass": "Busca",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Complexo",
+            "request": "launch",
+            "mainClass": "Complexo",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ContaBancaria",
+            "request": "launch",
+            "mainClass": "ContaBancaria",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ContagemOcorrencias",
+            "request": "launch",
+            "mainClass": "ContagemOcorrencias",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Diagonais",
+            "request": "launch",
+            "mainClass": "Diagonais",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Digitos",
+            "request": "launch",
+            "mainClass": "Digitos",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Elemento",
+            "request": "launch",
+            "mainClass": "Elemento",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Equacao",
+            "request": "launch",
+            "mainClass": "Equacao",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "InteiroSet",
+            "request": "launch",
+            "mainClass": "InteiroSet",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Inverter",
+            "request": "launch",
+            "mainClass": "Inverter",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Linhas",
+            "request": "launch",
+            "mainClass": "Linhas",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Magica",
+            "request": "launch",
+            "mainClass": "Magica",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "Main1",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Maior",
+            "request": "launch",
+            "mainClass": "Maior",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "Media",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Multiplicacao",
+            "request": "launch",
+            "mainClass": "Multiplicacao",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Palindrom",
+            "request": "launch",
+            "mainClass": "Palindrom",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Potencia",
+            "request": "launch",
+            "mainClass": "Potencia",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Produto",
+            "request": "launch",
+            "mainClass": "Produto",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Restaurantes",
+            "request": "launch",
+            "mainClass": "Restaurantes",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Retangulo",
+            "request": "launch",
+            "mainClass": "Retangulo",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Soma",
+            "request": "launch",
+            "mainClass": "Soma",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Transposta",
+            "request": "launch",
+            "mainClass": "Transposta",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "Triangulo",
+            "request": "launch",
+            "mainClass": "Triangulo",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "abnt",
+            "request": "launch",
+            "mainClass": "abnt",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex001",
+            "request": "launch",
+            "mainClass": "ex001",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex002",
+            "request": "launch",
+            "mainClass": "ex002",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex003",
+            "request": "launch",
+            "mainClass": "ex003",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex004",
+            "request": "launch",
+            "mainClass": "ex004",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex005",
+            "request": "launch",
+            "mainClass": "ex005",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex006",
+            "request": "launch",
+            "mainClass": "ex006",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex007",
+            "request": "launch",
+            "mainClass": "ex007",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex008",
+            "request": "launch",
+            "mainClass": "ex008",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex009",
+            "request": "launch",
+            "mainClass": "ex009",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "ex010",
+            "request": "launch",
+            "mainClass": "ex010",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l2ex01",
+            "request": "launch",
+            "mainClass": "l2ex01",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l2ex02",
+            "request": "launch",
+            "mainClass": "l2ex02",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l2ex03",
+            "request": "launch",
+            "mainClass": "l2ex03",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l2ex04",
+            "request": "launch",
+            "mainClass": "l2ex04",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l2ex05",
+            "request": "launch",
+            "mainClass": "l2ex05",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l2ex06",
+            "request": "launch",
+            "mainClass": "l2ex06",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l2ex07",
+            "request": "launch",
+            "mainClass": "l2ex07",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l2ex08",
+            "request": "launch",
+            "mainClass": "l2ex08",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex01",
+            "request": "launch",
+            "mainClass": "l3ex01",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex02",
+            "request": "launch",
+            "mainClass": "l3ex02",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex03",
+            "request": "launch",
+            "mainClass": "l3ex03",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex04",
+            "request": "launch",
+            "mainClass": "l3ex04",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex05",
+            "request": "launch",
+            "mainClass": "l3ex05",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex06",
+            "request": "launch",
+            "mainClass": "l3ex06",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex07",
+            "request": "launch",
+            "mainClass": "l3ex07",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex08",
+            "request": "launch",
+            "mainClass": "l3ex08",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex09",
+            "request": "launch",
+            "mainClass": "l3ex09",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l3ex10",
+            "request": "launch",
+            "mainClass": "l3ex10",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex01",
+            "request": "launch",
+            "mainClass": "l4ex01",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex02",
+            "request": "launch",
+            "mainClass": "l4ex02",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex03",
+            "request": "launch",
+            "mainClass": "l4ex03",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex04",
+            "request": "launch",
+            "mainClass": "l4ex04",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex05",
+            "request": "launch",
+            "mainClass": "l4ex05",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex06",
+            "request": "launch",
+            "mainClass": "l4ex06",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex07",
+            "request": "launch",
+            "mainClass": "l4ex07",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex08",
+            "request": "launch",
+            "mainClass": "l4ex08",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex09",
+            "request": "launch",
+            "mainClass": "l4ex09",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l4ex10",
+            "request": "launch",
+            "mainClass": "l4ex10",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l5ex01",
+            "request": "launch",
+            "mainClass": "l5ex01",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l5ex02",
+            "request": "launch",
+            "mainClass": "l5ex02",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "l5ex03",
+            "request": "launch",
+            "mainClass": "l5ex03",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "nome",
+            "request": "launch",
+            "mainClass": "nome",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "palindromo",
+            "request": "launch",
+            "mainClass": "palindromo",
+            "projectName": "UESB - AP2_91ccc0af"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "UESB - AP2_91ccc0af"
+        }
+    ]
+}
